@@ -1,2 +1,2 @@
 # Sorted-Number
-دریافت و آن ها را به صورت صعودی نمایش دهدdouble سه عدد از نوع 
+Prompt the user to input 10 double numbers and then sort them all in ascending order.
